@@ -1,6 +1,6 @@
 # hello-world
 
-Hi Himans!
+Hi Humans!
 
 I am here for contribute to open source project.
 I like machine learning with python.
